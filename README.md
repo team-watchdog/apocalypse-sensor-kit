@@ -173,15 +173,16 @@ Battery Life:
 
 The receiver device provides a CLI for advanced troubleshooting and management. Connect to the receiver's serial port to access the following commands:
 
-- `ls`: List all files and directories
-- `cat <filename>`: Read specific files
-- `rm <filename>`: Delete specific files
-- `lsdir <directory>`: List files in a specific directory
-- `disk`: Show total and used capacity of SPI flash
-- `settime HH:MM:SS`: Set the RTC time
-- `setdate YYYY-MM-DD`: Set the RTC date
-- `datetime`: Display current date and time
-- `help`: Show command catalog
+- `LS` : List all files and directories in the current directory
+- `READ <file>` : Read the specified file
+- `CD <dir>` : Change to the specified directory
+- `DEL <file>`    : Delete the specified file
+- `FLASHINFO` : Show total and used capacity of SPI flash
+- `USAGE` : Show used capacity in bytes and as a percentage
+- `SETTIME HH:MM:SS`: Set the RTC time
+- `SETDATE YYYY-MM-DD`: Set the RTC date
+- `DATETIME`: Display current date and time
+- `HELP`: Show command catalog
 
 Use these commands to manage data, check system status, and diagnose issues as needed.
 
