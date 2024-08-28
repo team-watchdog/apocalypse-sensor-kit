@@ -22,6 +22,7 @@
 ## 1. Introduction
 
 Welcome to the Apocalypse Sensor Kit user manual. This guide will walk you through the setup, deployment, and maintenance of your sensor network for monitoring environmental conditions in agricultural settings.
+
 For detailed instructions, please refer to the full [documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki).
 
 ## 2. System Overview
