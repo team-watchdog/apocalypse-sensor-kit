@@ -51,10 +51,10 @@ Components required:
 
 Assembly steps:
 1. Remove the voltage regulator and power LED from the Arduino Pro Mini.
-2. Connect sensors and LoRa module to the Arduino Pro Mini as per the pin configuration.
+2. Connect sensors and LoRa module to the Arduino Pro Mini as per the [pin configuration](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Hardware-Setup#assembly-notes:~:text=in%20sleep%20mode.-,Assembly%20Notes,-The%20CN3065%20solar). (Refer the full documentation)
 3. Set up the solar charging circuit with the CN3065 module.
-4. Assemble the components on a perforated board.
-5. Prepare the PVC enclosure as described in the full documentation.
+4. Solder the components on a perforated board.
+5. Prepare the PVC enclosure as described in the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Hardware-Setup#assembly-notes:~:text=Sensor%20Module%20Enclosure).
 6. Mount the circuit board and components inside the enclosure.
 
 ### Receiver Device
@@ -68,7 +68,7 @@ Components required:
 Assembly steps:
 1. Connect the LoRa module to the ESP32 using the SPI pins.
 2. Connect the RTC module to the ESP32 using the I2C pins.
-3. Mount the components securely on a perforated board or in an enclosure.
+3. Solder the components securely on a perforated board.
 
 For detailed instructions, please refer the [Hardware Setup](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Hardware-Setup) section in the [Wiki](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki)
 
@@ -98,7 +98,7 @@ Install the following libraries via the Arduino Library Manager:
 Sensor Module:
 1. Open the sensor module code in the Arduino IDE.
 2. Select "Arduino Pro or Pro Mini" as the board and "ATmega328P (3.3V, 8MHz)" as the processor.
-3. Set the correct port for your TTL converter.
+3. Connect the TTL converter to the arduino and Set the correct port for your TTL converter on the Arduino IDE.
 4. Upload the code to the Arduino Pro Mini.
 
 Receiver Device:
