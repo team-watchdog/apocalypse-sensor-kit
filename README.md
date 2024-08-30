@@ -140,7 +140,7 @@ For detailed instructions, please refer the [Installation and Deployment](https:
 
 ## 6. Mobile Application
 
-1. Install the mobile application on your smartphone (provide link or instructions for obtaining the app).
+1. Install the mobile application on your smartphone.
 2. Launch the app and navigate to the "Connect Receiver" section.
 3. Scan for available Bluetooth devices and select your receiver.
 4. Once connected, you can view sensor data, manage devices, and analyze readings.
