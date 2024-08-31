@@ -189,3 +189,18 @@ The receiver device provides a CLI for advanced troubleshooting and management. 
 Use these commands to manage data, check system status, and diagnose issues as needed.
 
 For any additional support or questions, please refer to the full [documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki).
+
+## License
+
+Our work presented under the MIT License - 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Acknowledgements
+
+This work was created by Watchdog Sri Lanka (Appendix) as a part of the project Building Tools to Strengthen Pluralist, Inclusive and Fact-based Public Discourse, conducted by LIRNEasia. LIRNEasia (www.lirneasia.net) is a pro-poor, pro-market regional digital policy think tank. The project is conducted in partnership with the Strengthening Social Cohesion and Peace in Sri Lanka (SCOPE) programme, co-funded by the European Union and German Federal Foreign Office. SCOPE is implemented by GIZ in partnership with the Ministry of Justice, Prisons Affairs and Constitutional Reforms.  
+
