@@ -1,5 +1,5 @@
 # Apocalypse Sensor Kit User Manual
-
+- by Sahan Panditharathne
 
 Welcome to the Apocalypse Sensor Kit user manual. 
 
@@ -7,7 +7,9 @@ The Apocalypse Sensor Kit is meant for gardening. It's a cheap, DIY suite of har
 
 ![image](https://github.com/user-attachments/assets/63096f35-5183-4e8d-b79f-4ec0233a20ba)
 
-If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor cluisters of sensors. 
+If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). 
+
+These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor cluisters of sensors. 
 
 It's meant to be used in with our Apocalypse Garden Wiki [coming soon], which is about growing 70+ crops in Sri Lanka - and the conditions you need for them. 
 
