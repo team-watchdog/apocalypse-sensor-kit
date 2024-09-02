@@ -17,17 +17,16 @@ If you want to learn how to build these units from scratch, please refer to the 
 ## 1. Before You Begin
    
 The system consists of three main components:
-
-Sensor Modules: Battery-powered devices that collect environmental data.
-Receiver Device: A central hub that receives and stores data from sensor modules.
-Mobile Application: For visualizing and analyzing the collected data.
+1. Sensor Modules: Battery-powered devices that collect environmental data.
+2. Receiver Device: A central hub that receives and stores data from sensor modules.
+3. Mobile Application: For visualizing and analyzing the collected data.
 
 Before starting, ensure you have the necessary tools:
 
-Shovel or post-hole digger
-Wire cutters
-Screwdrivers
-Gloves and protective eyewear
+1. Shovel or post-hole digger
+2. Wire cutters or small scissors
+3. Screwdrivers
+4. Gloves and protective eyewear
 
 
 ## 2. Deployment
