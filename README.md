@@ -13,7 +13,7 @@ These sensors have solar cells for charging and can average up to two months wit
 
 It's meant to be used in with our Apocalypse Garden Wiki [coming soon], which is about growing 70+ crops in Sri Lanka - and the conditions you need for them. 
 
-If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings.
+If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings. This assumes you have some technical expertise (if not, get a friend to help you!) 
 
 
 ## 1. Before You Begin
