@@ -1,5 +1,5 @@
 # Apocalypse Sensor Kit User Manual
-- by Sahan Panditharathne
+- designed and developed by Sahan Panditharathne
 
 Welcome to the Apocalypse Sensor Kit user manual. 
 
@@ -11,6 +11,9 @@ The Apocalypse Sensor Kit is meant for gardening. It's a cheap, DIY suite of har
 If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). We've provided the designs and a complete guide in the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki) - so you can build it as is, or improve it, or even print a PCB to make it sleekers (but more expensive). 
 
 These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever (LKR 3850) over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor cluisters of sensors. 
+
+![image](https://github.com/user-attachments/assets/ca48a293-e6dc-450f-9dc2-5f4504320b0b)
+
 
 It's essentially most of the same functions as most state of the art farm monitoring equipment, but a lot cheaper. It's meant to be used in with our Apocalypse Garden Wiki, which is about growing 70+ crops in Sri Lanka - and the conditions you need for them. 
 
@@ -58,6 +61,9 @@ Before starting, ensure you have the necessary tools:
 3. Scan for available Bluetooth devices and select your receiver.
 4. Once connected, you can view sensor data, manage devices, and analyze readings.
 5. You can rename sensors to remember them better
+
+![image](https://github.com/user-attachments/assets/f5b041bf-ec0c-415a-ab0b-034bcd73cd06)
+
 
 Key features:
 
