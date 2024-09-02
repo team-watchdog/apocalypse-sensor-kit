@@ -1,177 +1,93 @@
 # Apocalypse Sensor Kit User Manual
 
-## Table of Contents
-1. Introduction
-2. System Overview
-3. Hardware Setup
-   - Sensor Module
-   - Receiver Device
-4. Software Installation
-   - Arduino IDE Setup
-   - Required Libraries
-   - Firmware Upload
-5. Deployment
-   - Sensor Module Installation
-   - Receiver Device Setup
-6. Mobile Application
-7. Maintenance and Troubleshooting
-8. Appendix: Command Line Interface
 
----
+Welcome to the Apocalypse Sensor Kit user manual. 
 
-## 1. Introduction
+The Apocalypse Sensor Kit is meant for gardening. It's a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It comes with a mobile app. 
 
-Welcome to the Apocalypse Sensor Kit user manual. This guide will walk you through the setup, deployment, and maintenance of your sensor network for monitoring environmental conditions in agricultural settings.
+![image](https://github.com/user-attachments/assets/63096f35-5183-4e8d-b79f-4ec0233a20ba)
 
-For detailed instructions, please refer to the full [documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki).
+If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor cluisters of sensors. 
 
-## 2. System Overview
+It's meant to be used in with our Apocalypse Garden Wiki [coming soon], which is about growing 70+ crops in Sri Lanka - and the conditions you need for them. 
 
+If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings.
+
+
+## 1. Before You Begin
+   
 The system consists of three main components:
-1. Sensor Modules: Battery-powered devices that collect environmental data.
-2. Receiver Device: A central hub that receives and stores data from sensor modules.
-3. Mobile Application: For visualizing and analyzing the collected data.
 
----
+Sensor Modules: Battery-powered devices that collect environmental data.
+Receiver Device: A central hub that receives and stores data from sensor modules.
+Mobile Application: For visualizing and analyzing the collected data.
 
-## 3. Hardware Setup
+Before starting, ensure you have the necessary tools:
 
-### Sensor Module
+Shovel or post-hole digger
+Wire cutters
+Screwdrivers
+Gloves and protective eyewear
 
-Components required:
-- Arduino Pro Mini 3.3V 8MHz
-- DHT11 temperature and humidity sensor
-- BH1750FVI light intensity sensor
-- Capacitive soil moisture sensor
-- LoRa Ra-02 module
-- LiPo battery (<1000mAh)
-- CN3065 solar charger module
-- 6V 1W mini solar panel
-- Other components as listed in the full documentation
 
-Assembly steps:
-1. Remove the voltage regulator and power LED from the Arduino Pro Mini.
-2. Connect sensors and LoRa module to the Arduino Pro Mini as per the [pin configuration](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Hardware-Setup#assembly-notes:~:text=in%20sleep%20mode.-,Assembly%20Notes,-The%20CN3065%20solar). (Refer the full documentation)
-3. Set up the solar charging circuit with the CN3065 module.
-4. Solder the components on a perforated board.
-5. Prepare the PVC enclosure as described in the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Hardware-Setup#assembly-notes:~:text=Sensor%20Module%20Enclosure).
-6. Mount the circuit board and components inside the enclosure.
+## 2. Deployment
 
-### Receiver Device
+1. Choose a location near your crops, considering factors like shade, accessibility, and potential obstructions.
+2. Use a post-hole digger to dig a narrow hole approximately 1 foot deep.
+3. Insert the PVC standpipe into the hole, ensuring it's level and secure.
+4. Install the soil moisture sensor next to the standpipe at the appropriate depth for your crops.
+5. Route sensor wires through the pipe, using zip ties or cable clips to keep them organized.
+6. Attach the solar panel, checking for optimal sun exposure throughout the day.
+7. Connect all wires to the circuit board, double-checking connections before sealing.
+8. Position the DHT11 sensor inside the standpipe, considering adding a desiccant pack to reduce moisture.
+9. Verify all connections and seal the enclosure using silicone sealant or weatherproof tape.
 
-Components required:
-- ESP32 Dev Kit V1 (>4MB flash)
-- LoRa Ra-02 module
-- DS1307 RTC module
-- Power adapter with MicroUSB cable
+## 3. Receiver Device Setup
 
-Assembly steps:
-1. Connect the LoRa module to the ESP32 using the SPI pins.
-2. Connect the RTC module to the ESP32 using the I2C pins.
-3. Solder the components securely on a perforated board.
+1. Place the receiver under shelter with adequate ventilation and access to constant power. We recommend keeping it indoors.
+2. Ensure all peripherals are securely connected using cable ties or adhesive.
+3. Mount the receiver on a wall for better organization and stability, if possible.
 
-For detailed instructions, please refer the [Hardware Setup](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Hardware-Setup) section in the [Wiki](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki)
 
----
+## 4. Mobile Application
 
-## 4. Software Installation
-
-### Arduino IDE Setup
-
-1. Download and install the Arduino IDE from [arduino.cc](https://www.arduino.cc/en/software).
-2. Install the following board packages via the Board Manager:
-   - Arduino AVR Boards
-   - ESP32 by Espressif Systems
-
-### Required Libraries
-
-Install the following libraries via the Arduino Library Manager:
-- DHT sensor library by Adafruit
-- Adafruit Unified Sensor by Adafruit
-- BH1750 by Christopher Laws
-- LowPower by Rocket Scream Electronics
-- LoRa by Sandeep Mistry
-- RTCLib by Adafruit
-
-### Firmware Upload
-
-Sensor Module:
-1. Open the sensor module code in the Arduino IDE.
-2. Select "Arduino Pro or Pro Mini" as the board and "ATmega328P (3.3V, 8MHz)" as the processor.
-3. Connect the TTL converter to the arduino and Set the correct port for your TTL converter on the Arduino IDE.
-4. Upload the code to the Arduino Pro Mini.
-
-Receiver Device:
-1. Open the receiver device code in the Arduino IDE.
-2. Select your ESP32 board from the boards list.
-3. Set the correct port for your ESP32.
-4. Upload the code to the ESP32.
-
-Important: Ensure you modify the NETWORK_ID in both the sensor module and receiver device code to a unique identifier for your network.
-
-For detailed instructions, please refer the [Sofware Development](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Software-Development) section in the [Wiki](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki)
-
----
-
-## 5. Deployment
-
-### Sensor Module Installation
-
-1. Choose a location near your crops.
-2. Dig a narrow hole approximately 1 foot deep.
-3. Insert the PVC standpipe into the hole and secure it.
-4. Install the soil moisture sensor next to the standpipe.
-5. Route sensor wires through the pipe.
-6. Attach the solar panel and route its wires.
-7. Connect all wires to the circuit board.
-8. Position the DHT11 sensor inside the standpipe.
-9. Verify all connections and seal the enclosure.
-
-### Receiver Device Setup
-
-1. Place the receiver under shelter with access to constant power.
-2. Connect the power adapter to the ESP32.
-3. Ensure all peripherals are properly connected.
-4. Place the receiver in a stable location for continuous operation.
-
-For detailed instructions, please refer the [Installation and Deployment](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki/Installation-and-Deployment) section in the [Wiki](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki)
-
----
-
-## 6. Mobile Application
-
-1. Install the mobile application on your smartphone.
+1. Install the mobile application on your smartphone by downloading the apk from the "Releases" section on this repo 
 2. Launch the app and navigate to the "Connect Receiver" section.
 3. Scan for available Bluetooth devices and select your receiver.
 4. Once connected, you can view sensor data, manage devices, and analyze readings.
+5. You can rename sensors to remember them better
 
 Key features:
-- Real-time sensor data viewing
-- Historical data analysis with graphs
-- Device management (add/edit/remove sensors and receivers)
-- Custom time range selection for data viewing
 
----
+Real-time sensor data viewing with screenshots of the app interface
+Historical data analysis with graphs and tips on interpreting data
+Device management (add/edit/remove sensors and receivers)
+Custom time range selection for data viewing
+Data export and sharing for collaboration or further analysis
 
-## 7. Maintenance and Troubleshooting
 
-Regular Maintenance:
-- Review logs monthly
-- Perform physical checks on sensor nodes every two months
-- Check and clean solar panels as needed
+## 5. Maintenance and Troubleshooting
+
+1. Review logs monthly, maintaining a log of tasks performed and issues encountered.
+2. Perform physical checks on sensor nodes every two months, inspecting wires for damage.
+3. Check and clean solar panels as needed, using compressed air to prevent dust buildup.
+4. Keep a spare set of components (sensors, wires, etc.) for quick repairs or replacements.
+
 
 Troubleshooting:
-- If sensor module LED blinks rapidly, check sensor connections
-- For receiver issues, use the Command Line Interface (CLI) to access logs and diagnose problems
-- Refer to the "Maintenance and Troubleshooting" section in the full documentation for detailed guidance
+
+1. If sensor module LED blinks rapidly, check sensor connections. It will keep blinking as long as it cannot connect. 
+2. For receiver issues, use the Command Line Interface (CLI) to access logs and diagnose problems using the provided flowchart or decision tree.
+3. Refer to the "Maintenance and Troubleshooting" section in the full documentation for detailed guidance, or contact technical support/community forums for additional help.
 
 Battery Life:
-- Sensor modules can run on battery for about two months without solar charging
-- If a module stops transmitting, check the battery and solar panel connections
 
----
+1. Sensor modules can run on battery for about two months without solar charging. Keep spare batteries on hand for quick replacement.
+2. If a module stops transmitting, check the battery and solar panel connections.
+3. Properly dispose of or recycle old batteries.
 
-## 8. Appendix: Command Line Interface
+
+## 6. Command Line Interface
 
 The receiver device provides a CLI for advanced troubleshooting and management. Connect to the receiver's serial port to access the following commands:
 
