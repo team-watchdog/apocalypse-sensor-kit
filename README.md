@@ -5,9 +5,10 @@ Welcome to the Apocalypse Sensor Kit user manual.
 
 The Apocalypse Sensor Kit is meant for gardening. It's a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It comes with a mobile app. 
 
-![image](https://github.com/user-attachments/assets/63096f35-5183-4e8d-b79f-4ec0233a20ba)
+![image](https://github.com/user-attachments/assets/72c6c55a-3db3-462f-a3ab-a04a5d2e6a49)
 
-If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). 
+
+If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). We've provided the designs and a complete guide in the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki) - so you can build it as is, or improve it, or even print a PCB to make it sleekers (but more expensive). 
 
 These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor cluisters of sensors. 
 
@@ -80,6 +81,10 @@ Troubleshooting:
 1. If sensor module LED blinks rapidly, check sensor connections. It will keep blinking as long as it cannot connect. 
 2. For receiver issues, use the Command Line Interface (CLI) to access logs and diagnose problems using the provided flowchart or decision tree.
 3. Refer to the "Maintenance and Troubleshooting" section in the full documentation for detailed guidance, or contact technical support/community forums for additional help.
+
+![image](https://github.com/user-attachments/assets/87651747-5deb-4b42-b4e8-75cc6ae35c05)
+
+In general, make sure there's no crud on the wires and that everything is sealed nicely.
 
 Battery Life:
 
