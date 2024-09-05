@@ -1,0 +1,3 @@
+[submodule "Apoc_sensor_module"]
+	path = Apoc_sensor_module
+	url = https://github.com/sahan-panditharathne/Apoc_sensor_module.git
