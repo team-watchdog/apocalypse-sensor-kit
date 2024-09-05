@@ -1,3 +1,6 @@
 [submodule "Apoc_sensor_module"]
 	path = Apoc_sensor_module
 	url = https://github.com/sahan-panditharathne/Apoc_sensor_module.git
+[submodule "Apoc_Receiver"]
+	path = Apoc_Receiver
+	url = https://github.com/team-watchdog/Apoc_Receiver.git
