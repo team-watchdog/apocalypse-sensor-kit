@@ -4,3 +4,6 @@
 [submodule "Apoc_Receiver"]
 	path = Apoc_Receiver
 	url = https://github.com/team-watchdog/Apoc_Receiver.git
+[submodule "Apocalypes-mobile-app"]
+	path = Apocalypes-mobile-app
+	url = https://github.com/team-watchdog/Apocalypes-mobile-app.git
