@@ -1,5 +1,5 @@
-# Apocalypse Sensor Kit User Manual
-- designed and developed by Sahan Panditharathne
+# The Apocalypse Sensor Kit
+designed and developed by Sahan Panditharathne
 
 Welcome to the Apocalypse Sensor Kit user manual. 
 
