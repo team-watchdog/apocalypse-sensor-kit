@@ -118,8 +118,10 @@ Use these commands to manage data, check system status, and diagnose issues as n
 
 For any additional support or questions, please refer to the full [documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki).
 
-### [Sinhala version of this manual] (/README-Sinhala.md)
-### [Tamil version of this manual] (/README-Tamil.md)
+### Sinhala version of this manual
+- [Sinhala user manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Sinhala.md)
+### Tamil version of this manual
+- [Tamil user manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Tamil.md)
 
 ## License
 
