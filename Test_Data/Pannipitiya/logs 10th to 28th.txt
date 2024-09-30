@@ -1,0 +1,913 @@
+Listing directory: /
+  FILE: 1722988800  SIZE: 49  LAST WRITE: 2024-08-07 16:32:18
+  FILE: 1722988800  SIZE: 71  LAST WRITE: 2024-08-07 16:32:18
+  FILE: 1723161600  SIZE: 1804  LAST WRITE: 2024-08-09 23:57:42
+  FILE: 1723161600  SIZE: 2935  LAST WRITE: 2024-08-09 23:58:47
+  FILE: 1723248000  SIZE: 3198  LAST WRITE: 2024-08-10 23:46:09
+  FILE: 1723248000  SIZE: 5869  LAST WRITE: 2024-08-10 23:46:09
+  FILE: 1723334400  SIZE: 3235  LAST WRITE: 2024-08-11 23:35:43
+  FILE: 1723334400  SIZE: 5923  LAST WRITE: 2024-08-11 23:35:43
+  FILE: 1723420800  SIZE: 3177  LAST WRITE: 2024-08-12 23:43:14
+  FILE: 1723420800  SIZE: 6028  LAST WRITE: 2024-08-12 23:43:14
+  FILE: 1723507200  SIZE: 3518  LAST WRITE: 2024-08-13 23:50:37
+  FILE: 1723507200  SIZE: 6546  LAST WRITE: 2024-08-13 23:50:37
+  FILE: 1723593600  SIZE: 2937  LAST WRITE: 2024-08-14 23:57:15
+  FILE: 1723593600  SIZE: 5761  LAST WRITE: 2024-08-14 23:57:15
+  FILE: 1723680000  SIZE: 849  LAST WRITE: 2024-08-15 06:42:01
+  FILE: 1723680000  SIZE: 1870  LAST WRITE: 2024-08-15 06:42:01
+  FILE: 1723939200  SIZE: 780  LAST WRITE: 2024-08-18 22:59:25
+  FILE: 1724025600  SIZE: 376  LAST WRITE: 2024-08-19 23:33:49
+  FILE: 1724025600  SIZE: 1192  LAST WRITE: 2024-08-19 23:33:49
+  FILE: 1724112000  SIZE: 3825  LAST WRITE: 2024-08-20 23:29:11
+  FILE: 1724112000  SIZE: 7273  LAST WRITE: 2024-08-20 23:31:09
+  FILE: 1724284800  SIZE: 1326  LAST WRITE: 2024-08-22 22:36:42
+  FILE: 1724371200  SIZE: 1144  LAST WRITE: 2024-08-23 23:50:27
+  FILE: 1724457600  SIZE: 1144  LAST WRITE: 2024-08-24 23:01:34
+  FILE: 1724544000  SIZE: 1066  LAST WRITE: 2024-08-25 22:56:29
+  FILE: 1724630400  SIZE: 1196  LAST WRITE: 2024-08-26 23:22:06
+  FILE: 1724716800  SIZE: 988  LAST WRITE: 2024-08-27 23:49:39
+  FILE: 1724803200  SIZE: 2411  LAST WRITE: 2024-08-28 01:05:49
+  FILE: 1724803200  SIZE: 4786  LAST WRITE: 2024-08-28 23:37:38
+  FILE: 1724889600  SIZE: 832  LAST WRITE: 2024-08-29 22:39:03
+  FILE: 1724976000  SIZE: 1794  LAST WRITE: 2024-08-30 22:28:19
+  FILE: 1725062400  SIZE: 1144  LAST WRITE: 2024-08-31 22:21:14
+  FILE: 1725148800  SIZE: 1144  LAST WRITE: 2024-09-01 22:08:57
+  FILE: 1725235200  SIZE: 1747  LAST WRITE: 2024-09-02 23:53:31
+  FILE: 1725235200  SIZE: 3966  LAST WRITE: 2024-09-02 23:53:31
+  FILE: 1725321600  SIZE: 1759  LAST WRITE: 2024-09-03 23:23:15
+  FILE: 1725321600  SIZE: 3830  LAST WRITE: 2024-09-03 23:51:39
+  FILE: 1725408000  SIZE: 1957  LAST WRITE: 2024-09-04 18:05:05
+  FILE: 1725408000  SIZE: 4102  LAST WRITE: 2024-09-04 23:36:33
+  FILE: 1725494400  SIZE: 1404  LAST WRITE: 2024-09-05 22:43:12
+  FILE: 1725580800  SIZE: 1404  LAST WRITE: 2024-09-06 23:47:11
+  FILE: 1725667200  SIZE: 676  LAST WRITE: 2024-09-07 22:03:30
+  FILE: 1725753600  SIZE: 1040  LAST WRITE: 2024-09-08 23:31:37
+  FILE: 1725840000  SIZE: 1508  LAST WRITE: 2024-09-09 23:52:51
+  FILE: 1725926400  SIZE: 1066  LAST WRITE: 2024-09-10 21:43:55
+  FILE: 1726012800  SIZE: 1274  LAST WRITE: 2024-09-11 22:57:27
+  FILE: 1726099200  SIZE: 26  LAST WRITE: 2024-09-12 07:32:11
+  FILE: 1726185600  SIZE: 26  LAST WRITE: 2024-09-13 02:17:24
+  FILE: 1727136000  SIZE: 78  LAST WRITE: 2024-09-24 14:47:54
+Reading file: /logs/1723248000
+Read from file: 00:17:00 msg saved, nodeid:13623, sequence:5,waketime:19232, RSSI:-76
+00:36:17 msg saved, nodeid:13623, sequence:6,waketime:22435, RSSI:-76
+00:55:35 msg saved, nodeid:13623, sequence:7,waketime:25659, RSSI:-76
+01:14:52 msg saved, nodeid:13623, sequence:8,waketime:28862, RSSI:-71
+01:34:09 msg saved, nodeid:13623, sequence:9,waketime:32086, RSSI:-70
+01:53:27 msg saved, nodeid:13623, sequence:10,waketime:35289, RSSI:-74
+02:01:52 Message discarded. Invalid message format.
+02:12:44 msg saved, nodeid:13623, sequence:11,waketime:38512, RSSI:-73
+02:32:02 msg saved, nodeid:13623, sequence:12,waketime:41715, RSSI:-75
+02:51:19 msg saved, nodeid:13623, sequence:13,waketime:44945, RSSI:-71
+03:10:37 msg saved, nodeid:13623, sequence:14,waketime:48146, RSSI:-70
+03:15:02 Message discarded. Invalid message format.
+03:27:10 Message discarded. Invalid message format.
+03:29:54 msg saved, nodeid:13623, sequence:15,waketime:51374, RSSI:-71
+03:46:53 Message discarded. Invalid message format.
+03:49:12 msg saved, nodeid:13623, sequence:16,waketime:54575, RSSI:-71
+04:08:30 msg saved, nodeid:13623, sequence:17,waketime:57800, RSSI:-70
+04:27:47 msg saved, nodeid:13623, sequence:18,waketime:61001, RSSI:-74
+04:47:04 msg saved, nodeid:13623, sequence:19,waketime:64227, RSSI:-76
+05:06:22 msg saved, nodeid:13623, sequence:20,waketime:67430, RSSI:-72
+05:25:39 msg saved, nodeid:13623, sequence:21,waketime:70656, RSSI:-70
+05:42:45 Message discarded. Invalid message format.
+05:44:57 msg saved, nodeid:13623, sequence:22,waketime:73857, RSSI:-76
+06:04:14 msg saved, nodeid:13623, sequence:23,waketime:77082, RSSI:-76
+06:23:32 msg saved, nodeid:13623, sequence:24,waketime:80283, RSSI:-73
+06:42:49 msg saved, nodeid:13623, sequence:25,waketime:83509, RSSI:-70
+07:02:06 msg saved, nodeid:13623, sequence:26,waketime:86712, RSSI:-71
+07:21:24 msg saved, nodeid:13623, sequence:27,waketime:89942, RSSI:-80
+07:40:41 msg saved, nodeid:13623, sequence:28,waketime:93143, RSSI:-71
+07:59:59 msg saved, nodeid:13623, sequence:29,waketime:96368, RSSI:-72
+08:09:26 Message discarded. Invalid message format.
+08:19:16 msg saved, nodeid:13623, sequence:30,waketime:99569, RSSI:-69
+08:38:33 msg saved, nodeid:13623, sequence:31,waketime:102795, RSSI:-70
+08:57:51 msg saved, nodeid:13623, sequence:32,waketime:106002, RSSI:-70
+09:17:08 msg saved, nodeid:13623, sequence:33,waketime:109232, RSSI:-71
+09:22:39 Message discarded. Invalid message format.
+09:36:25 msg saved, nodeid:13623, sequence:34,waketime:112443, RSSI:-70
+09:55:44 msg saved, nodeid:13623, sequence:35,waketime:115673, RSSI:-65
+09:56:18 Message discarded. Invalid message format.
+10:12:09 Message discarded. Invalid message format.
+10:15:01 msg saved, nodeid:13623, sequence:36,waketime:118880, RSSI:-67
+10:29:10 Message discarded. Invalid message format.
+10:34:19 msg saved, nodeid:13623, sequence:37,waketime:122112, RSSI:-67
+10:53:38 msg saved, nodeid:13623, sequence:38,waketime:125319, RSSI:-67
+11:12:56 msg saved, nodeid:13623, sequence:39,waketime:128548, RSSI:-67
+11:32:14 msg saved, nodeid:13623, sequence:40,waketime:131756, RSSI:-67
+11:51:33 msg saved, nodeid:13623, sequence:41,waketime:134989, RSSI:-68
+12:30:09 msg saved, nodeid:13623, sequence:43,waketime:141428, RSSI:-67
+12:49:28 msg saved, nodeid:13623, sequence:44,waketime:144635, RSSI:-67
+13:08:46 msg saved, nodeid:13623, sequence:45,waketime:147865, RSSI:-67
+13:28:05 msg saved, nodeid:13623, sequence:46,waketime:151072, RSSI:-67
+13:51:18 Message discarded. Invalid message format.
+14:06:42 msg saved, nodeid:13623, sequence:48,waketime:157513, RSSI:-67
+14:26:01 msg saved, nodeid:13623, sequence:49,waketime:160743, RSSI:-66
+14:45:19 msg saved, nodeid:13623, sequence:50,waketime:163954, RSSI:-68
+15:04:38 msg saved, nodeid:13623, sequence:51,waketime:167184, RSSI:-71
+15:10:20 Message discarded. Invalid message format.
+15:23:56 msg saved, nodeid:13623, sequence:52,waketime:170391, RSSI:-69
+16:02:34 msg saved, nodeid:13623, sequence:54,waketime:176828, RSSI:-67
+16:15:37 Message discarded. Invalid message format.
+16:54:52 Message discarded. Invalid message format.
+17:00:30 msg saved, nodeid:13623, sequence:57,waketime:186501, RSSI:-70
+17:19:48 msg saved, nodeid:13623, sequence:58,waketime:189706, RSSI:-67
+17:39:06 msg saved, nodeid:13623, sequence:59,waketime:192937, RSSI:-70
+17:58:25 msg saved, nodeid:13623, sequence:60,waketime:196145, RSSI:-70
+18:17:43 msg saved, nodeid:13623, sequence:61,waketime:199374, RSSI:-96
+18:25:04 Message discarded. Invalid message format.
+18:37:02 msg saved, nodeid:13623, sequence:62,waketime:202582, RSSI:-109
+18:56:21 msg saved, nodeid:13623, sequence:63,waketime:205817, RSSI:-105
+19:15:41 msg saved, nodeid:13623, sequence:64,waketime:209025, RSSI:-107
+19:35:01 msg saved, nodeid:13623, sequence:65,waketime:212254, RSSI:-105
+19:54:20 msg saved, nodeid:13623, sequence:66,waketime:215461, RSSI:-100
+20:01:48 Message discarded. Invalid message format.
+20:13:39 msg saved, nodeid:13623, sequence:67,waketime:218691, RSSI:-115
+20:32:58 msg saved, nodeid:13623, sequence:68,waketime:221900, RSSI:-116
+20:52:17 msg saved, nodeid:13623, sequence:69,waketime:225132, RSSI:-115
+21:11:36 msg saved, nodeid:13623, sequence:70,waketime:228339, RSSI:-111
+21:30:55 msg saved, nodeid:13623, sequence:71,waketime:231569, RSSI:-110
+21:50:15 msg saved, nodeid:13623, sequence:72,waketime:234776, RSSI:-111
+21:50:52 Message discarded. Invalid message format.
+22:09:35 msg saved, nodeid:13623, sequence:73,waketime:238012, RSSI:-110
+22:48:13 msg saved, nodeid:13623, sequence:75,waketime:244449, RSSI:-114
+22:55:09 Message discarded. Invalid message format.
+23:07:32 msg saved, nodeid:13623, sequence:76,waketime:247656, RSSI:-112
+23:09:32 Message discarded. Invalid message format.
+23:26:51 msg saved, nodeid:13623, sequence:77,waketime:250886, RSSI:-112
+23:46:09 msg saved, nodeid:13623, sequence:78,waketime:254095, RSSI:-108
+Reading file: /logs/1723334400
+Read from file: 00:05:27 msg saved, nodeid:13623, sequence:79,waketime:257325, RSSI:-108
+00:24:45 msg saved, nodeid:13623, sequence:80,waketime:260532, RSSI:-107
+00:44:03 msg saved, nodeid:13623, sequence:81,waketime:263763, RSSI:-106
+01:03:21 msg saved, nodeid:13623, sequence:82,waketime:266971, RSSI:-105
+01:06:55 Message discarded. Invalid message format.
+01:22:40 msg saved, nodeid:13623, sequence:83,waketime:270200, RSSI:-105
+01:41:58 msg saved, nodeid:13623, sequence:84,waketime:273408, RSSI:-105
+01:47:28 Message discarded. Invalid message format.
+02:01:16 msg saved, nodeid:13623, sequence:85,waketime:276641, RSSI:-105
+02:20:35 msg saved, nodeid:13623, sequence:86,waketime:279848, RSSI:-105
+02:39:54 msg saved, nodeid:13623, sequence:87,waketime:283078, RSSI:-105
+02:59:13 msg saved, nodeid:13623, sequence:88,waketime:286285, RSSI:-106
+03:10:20 Message discarded. Invalid message format.
+03:18:32 msg saved, nodeid:13623, sequence:89,waketime:289521, RSSI:-106
+03:37:51 msg saved, nodeid:13623, sequence:90,waketime:292728, RSSI:-105
+03:57:09 msg saved, nodeid:13623, sequence:91,waketime:295958, RSSI:-104
+04:16:28 msg saved, nodeid:13623, sequence:92,waketime:299165, RSSI:-105
+04:35:45 msg saved, nodeid:13623, sequence:93,waketime:302399, RSSI:-105
+04:55:03 msg saved, nodeid:13623, sequence:94,waketime:305606, RSSI:-105
+05:14:20 msg saved, nodeid:13623, sequence:95,waketime:308836, RSSI:-105
+05:33:38 msg saved, nodeid:13623, sequence:96,waketime:312043, RSSI:-104
+05:52:55 msg saved, nodeid:13623, sequence:97,waketime:315275, RSSI:-106
+06:12:13 msg saved, nodeid:13623, sequence:98,waketime:318482, RSSI:-106
+06:19:50 Message discarded. Invalid message format.
+06:31:31 msg saved, nodeid:13623, sequence:99,waketime:321716, RSSI:-106
+06:45:12 Message discarded. Invalid message format.
+06:50:49 msg saved, nodeid:13623, sequence:100,waketime:324923, RSSI:-106
+07:10:07 msg saved, nodeid:13623, sequence:101,waketime:328159, RSSI:-106
+07:29:25 msg saved, nodeid:13623, sequence:102,waketime:331372, RSSI:-106
+07:48:43 msg saved, nodeid:13623, sequence:103,waketime:334610, RSSI:-106
+08:08:02 msg saved, nodeid:13623, sequence:104,waketime:337823, RSSI:-105
+08:27:21 msg saved, nodeid:13623, sequence:105,waketime:341063, RSSI:-106
+08:46:41 msg saved, nodeid:13623, sequence:106,waketime:344276, RSSI:-106
+09:06:01 msg saved, nodeid:13623, sequence:107,waketime:347512, RSSI:-107
+09:22:02 Message discarded. Invalid message format.
+09:25:20 msg saved, nodeid:13623, sequence:108,waketime:350726, RSSI:-105
+09:44:39 msg saved, nodeid:13623, sequence:109,waketime:353964, RSSI:-115
+09:48:27 Message discarded. Invalid message format.
+10:23:17 msg saved, nodeid:13623, sequence:111,waketime:360413, RSSI:-106
+10:42:37 msg saved, nodeid:13623, sequence:112,waketime:363626, RSSI:-106
+11:01:57 msg saved, nodeid:13623, sequence:113,waketime:366862, RSSI:-114
+11:21:18 msg saved, nodeid:13623, sequence:114,waketime:370075, RSSI:-114
+11:40:38 msg saved, nodeid:13623, sequence:115,waketime:373311, RSSI:-112
+11:49:00 Message discarded. Invalid message format.
+12:04:33 Message discarded. Invalid message format.
+12:19:19 msg saved, nodeid:13623, sequence:117,waketime:379762, RSSI:-110
+12:38:40 msg saved, nodeid:13623, sequence:118,waketime:382976, RSSI:-106
+12:40:37 Message discarded. Invalid message format.
+12:52:32 Message discarded. Invalid message format.
+12:58:00 msg saved, nodeid:13623, sequence:119,waketime:386215, RSSI:-108
+13:17:21 msg saved, nodeid:13623, sequence:120,waketime:389429, RSSI:-106
+13:36:41 msg saved, nodeid:13623, sequence:121,waketime:392665, RSSI:-110
+13:43:36 Message discarded. Invalid message format.
+13:56:02 msg saved, nodeid:13623, sequence:122,waketime:395878, RSSI:-110
+13:56:57 Message discarded. Invalid message format.
+14:15:23 msg saved, nodeid:13623, sequence:123,waketime:399114, RSSI:-114
+14:34:43 msg saved, nodeid:13623, sequence:124,waketime:402327, RSSI:-113
+14:54:04 msg saved, nodeid:13623, sequence:125,waketime:405565, RSSI:-106
+15:13:24 msg saved, nodeid:13623, sequence:126,waketime:408778, RSSI:-107
+15:32:44 msg saved, nodeid:13623, sequence:127,waketime:412016, RSSI:-113
+15:36:46 Message discarded. Invalid message format.
+15:47:00 Message discarded. Invalid message format.
+15:52:04 msg saved, nodeid:13623, sequence:128,waketime:415232, RSSI:-112
+16:11:24 msg saved, nodeid:13623, sequence:129,waketime:418471, RSSI:-109
+16:30:44 msg saved, nodeid:13623, sequence:130,waketime:421685, RSSI:-110
+16:50:03 msg saved, nodeid:13623, sequence:131,waketime:424921, RSSI:-108
+17:28:43 msg saved, nodeid:13623, sequence:133,waketime:431370, RSSI:-108
+17:48:03 msg saved, nodeid:13623, sequence:134,waketime:434583, RSSI:-107
+18:07:22 msg saved, nodeid:13623, sequence:135,waketime:437815, RSSI:-107
+18:26:42 msg saved, nodeid:13623, sequence:136,waketime:441022, RSSI:-110
+18:40:17 Message discarded. Invalid message format.
+18:46:01 msg saved, nodeid:13623, sequence:137,waketime:444254, RSSI:-111
+19:04:08 Message discarded. Invalid message format.
+19:05:20 msg saved, nodeid:13623, sequence:138,waketime:447461, RSSI:-107
+19:24:40 msg saved, nodeid:13623, sequence:139,waketime:450691, RSSI:-106
+19:39:38 Message discarded. Invalid message format.
+19:43:59 msg saved, nodeid:13623, sequence:140,waketime:453900, RSSI:-104
+20:03:19 msg saved, nodeid:13623, sequence:141,waketime:457129, RSSI:-108
+20:22:38 msg saved, nodeid:13623, sequence:142,waketime:460337, RSSI:-107
+20:41:57 msg saved, nodeid:13623, sequence:143,waketime:463568, RSSI:-108
+21:01:16 msg saved, nodeid:13623, sequence:144,waketime:466776, RSSI:-109
+21:20:35 msg saved, nodeid:13623, sequence:145,waketime:470005, RSSI:-105
+21:39:53 Message discarded. unmatched network ID.
+21:59:12 msg saved, nodeid:13623, sequence:147,waketime:476446, RSSI:-106
+22:18:30 msg saved, nodeid:13623, sequence:148,waketime:479653, RSSI:-106
+23:35:43 msg saved, nodeid:13623, sequence:152,waketime:492531, RSSI:-103
+Received message: Æﬂ\·pûªıQ∑µÊ§ÒcÄ®.˘∫™πÖNã  ÑÇı&Rr]íâÃrXESGj¸éd∆
+∑'âñn@1˙Ñ¥MçΩàlFbQÿ%‘é¿◊9∏ÍÃØV¶=1ÈΩ€êª€#ÎTø?o-OkúùG¸
+Invalid message format.
+Appending to file: /logs/1727136000
+Message appended
+Reading file: /logs/1723420800
+Read from file: 00:14:18 msg saved, nodeid:13623, sequence:154,waketime:498968, RSSI:-105
+00:33:36 msg saved, nodeid:13623, sequence:155,waketime:502198, RSSI:-105
+00:52:53 msg saved, nodeid:13623, sequence:156,waketime:505405, RSSI:-105
+01:12:11 msg saved, nodeid:13623, sequence:157,waketime:508639, RSSI:-105
+01:31:29 msg saved, nodeid:13623, sequence:158,waketime:511846, RSSI:-105
+01:50:46 msg saved, nodeid:13623, sequence:159,waketime:515076, RSSI:-106
+02:10:04 msg saved, nodeid:13623, sequence:160,waketime:518283, RSSI:-104
+02:14:46 Message discarded. Invalid message format.
+02:29:22 msg saved, nodeid:13623, sequence:161,waketime:521515, RSSI:-101
+02:48:39 msg saved, nodeid:13623, sequence:162,waketime:524724, RSSI:-104
+03:07:57 msg saved, nodeid:13623, sequence:163,waketime:527955, RSSI:-104
+03:21:21 Message discarded. Invalid message format.
+03:24:25 Message discarded. Invalid message format.
+03:27:14 msg saved, nodeid:13623, sequence:164,waketime:531163, RSSI:-104
+03:46:32 msg saved, nodeid:13623, sequence:165,waketime:534392, RSSI:-104
+04:05:49 msg saved, nodeid:13623, sequence:166,waketime:537600, RSSI:-104
+04:25:06 msg saved, nodeid:13623, sequence:167,waketime:540835, RSSI:-105
+04:44:23 msg saved, nodeid:13623, sequence:168,waketime:544043, RSSI:-105
+04:52:58 Message discarded. Invalid message format.
+05:03:40 msg saved, nodeid:13623, sequence:169,waketime:547272, RSSI:-103
+05:22:57 msg saved, nodeid:13623, sequence:170,waketime:550479, RSSI:-105
+05:42:14 msg saved, nodeid:13623, sequence:171,waketime:553715, RSSI:-104
+06:01:31 msg saved, nodeid:13623, sequence:172,waketime:556922, RSSI:-105
+06:20:48 msg saved, nodeid:13623, sequence:173,waketime:560152, RSSI:-105
+06:21:39 Message discarded. Invalid message format.
+06:40:05 msg saved, nodeid:13623, sequence:174,waketime:563361, RSSI:-103
+06:40:56 Message discarded. Invalid message format.
+06:59:23 msg saved, nodeid:13623, sequence:175,waketime:566597, RSSI:-103
+07:18:40 msg saved, nodeid:13623, sequence:176,waketime:569810, RSSI:-105
+07:37:57 msg saved, nodeid:13623, sequence:177,waketime:573046, RSSI:-107
+07:57:14 msg saved, nodeid:13623, sequence:178,waketime:576260, RSSI:-107
+08:16:32 msg saved, nodeid:13623, sequence:179,waketime:579495, RSSI:-111
+08:35:49 msg saved, nodeid:13623, sequence:180,waketime:582709, RSSI:-108
+08:55:07 msg saved, nodeid:13623, sequence:181,waketime:585947, RSSI:-106
+09:14:25 msg saved, nodeid:13623, sequence:182,waketime:589162, RSSI:-105
+09:22:03 Message discarded. Invalid message format.
+10:12:20 Message discarded. Invalid message format.
+10:12:21 msg saved, nodeid:13623, sequence:185,waketime:598847, RSSI:-111
+10:31:41 msg saved, nodeid:13623, sequence:186,waketime:602060, RSSI:-109
+10:51:01 msg saved, nodeid:13623, sequence:187,waketime:605298, RSSI:-108
+11:24:20 Message discarded. Invalid message format.
+11:29:42 msg saved, nodeid:13623, sequence:189,waketime:611747, RSSI:-108
+11:49:02 msg saved, nodeid:13623, sequence:190,waketime:614961, RSSI:-108
+12:08:22 msg saved, nodeid:13623, sequence:191,waketime:618199, RSSI:-108
+12:27:41 msg saved, nodeid:13623, sequence:192,waketime:621410, RSSI:-108
+12:31:17 Message discarded. Invalid message format.
+12:45:01 Message discarded. Invalid message format.
+12:47:02 msg saved, nodeid:13623, sequence:193,waketime:624648, RSSI:-107
+12:50:07 Message discarded. Invalid message format.
+13:25:42 msg saved, nodeid:13623, sequence:195,waketime:631099, RSSI:-107
+14:04:21 msg saved, nodeid:13623, sequence:197,waketime:637548, RSSI:-109
+14:17:41 Message discarded. Invalid message format.
+14:23:42 msg saved, nodeid:13623, sequence:198,waketime:640761, RSSI:-109
+14:35:06 Message discarded. Invalid message format.
+14:43:02 msg saved, nodeid:13623, sequence:199,waketime:643997, RSSI:-109
+15:02:22 msg saved, nodeid:13623, sequence:200,waketime:647211, RSSI:-108
+15:21:42 msg saved, nodeid:13623, sequence:201,waketime:650448, RSSI:-109
+15:41:01 msg saved, nodeid:13623, sequence:202,waketime:653662, RSSI:-109
+15:48:19 Message discarded. Invalid message format.
+16:00:19 msg saved, nodeid:13623, sequence:203,waketime:656900, RSSI:-108
+16:00:46 Message discarded. Invalid message format.
+16:19:38 msg saved, nodeid:13623, sequence:204,waketime:660113, RSSI:-109
+16:36:09 Message discarded. Invalid message format.
+16:38:56 msg saved, nodeid:13623, sequence:205,waketime:663345, RSSI:-108
+16:58:14 msg saved, nodeid:13623, sequence:206,waketime:666552, RSSI:-109
+17:17:32 msg saved, nodeid:13623, sequence:206,waketime:666552, RSSI:-107
+17:36:50 msg saved, nodeid:13623, sequence:208,waketime:672991, RSSI:-107
+18:15:25 msg saved, nodeid:13623, sequence:210,waketime:679430, RSSI:-108
+18:34:43 msg saved, nodeid:13623, sequence:211,waketime:682659, RSSI:-109
+19:13:17 msg saved, nodeid:13623, sequence:213,waketime:689100, RSSI:-108
+19:32:34 msg saved, nodeid:13623, sequence:214,waketime:692307, RSSI:-107
+19:44:38 Message discarded. Invalid message format.
+20:11:08 msg saved, nodeid:13623, sequence:216,waketime:698744, RSSI:-114
+20:30:25 msg saved, nodeid:13623, sequence:217,waketime:701980, RSSI:-115
+20:49:42 msg saved, nodeid:13623, sequence:218,waketime:705187, RSSI:-106
+20:59:51 Message discarded. Invalid message format.
+21:08:59 msg saved, nodeid:13623, sequence:219,waketime:708417, RSSI:-112
+21:28:16 msg saved, nodeid:13623, sequence:220,waketime:711624, RSSI:-114
+21:47:33 msg saved, nodeid:13623, sequence:221,waketime:714856, RSSI:-116
+22:06:50 msg saved, nodeid:13623, sequence:222,waketime:718063, RSSI:-116
+22:26:07 msg saved, nodeid:13623, sequence:223,waketime:721293, RSSI:-119
+22:45:23 msg saved, nodeid:13623, sequence:224,waketime:724500, RSSI:-113
+22:56:13 Message discarded. Invalid message format.
+23:04:40 msg saved, nodeid:13623, sequence:225,waketime:727734, RSSI:-108
+23:19:47 Message discarded. Invalid message format.
+23:23:57 msg saved, nodeid:13623, sequence:226,waketime:730941, RSSI:-115
+23:28:14 Message discarded. Invalid message format.
+23:43:13 msg saved, nodeid:13623, sequence:227,waketime:734171, RSSI:-116
+Reading file: /logs/1723507200
+Read from file: 00:02:30 msg saved, nodeid:13623, sequence:228,waketime:737378, RSSI:-111
+00:21:47 msg saved, nodeid:13623, sequence:229,waketime:740614, RSSI:-109
+00:41:04 msg saved, nodeid:13623, sequence:230,waketime:743821, RSSI:-109
+01:00:20 msg saved, nodeid:13623, sequence:231,waketime:747051, RSSI:-108
+01:19:37 msg saved, nodeid:13623, sequence:232,waketime:750258, RSSI:-109
+01:38:55 msg saved, nodeid:13623, sequence:233,waketime:753491, RSSI:-110
+01:57:57 Message discarded. Invalid message format.
+01:58:12 msg saved, nodeid:13623, sequence:234,waketime:756699, RSSI:-110
+02:17:29 msg saved, nodeid:13623, sequence:235,waketime:759928, RSSI:-110
+02:36:46 msg saved, nodeid:13623, sequence:236,waketime:763136, RSSI:-110
+02:56:03 msg saved, nodeid:13623, sequence:237,waketime:766367, RSSI:-109
+03:15:20 msg saved, nodeid:13623, sequence:238,waketime:769574, RSSI:-109
+03:16:53 Message discarded. Invalid message format.
+03:34:38 msg saved, nodeid:13623, sequence:239,waketime:772804, RSSI:-110
+03:53:55 msg saved, nodeid:13623, sequence:240,waketime:776011, RSSI:-109
+04:07:12 Message discarded. Invalid message format.
+04:13:12 msg saved, nodeid:13623, sequence:241,waketime:779247, RSSI:-108
+04:32:29 msg saved, nodeid:13623, sequence:242,waketime:782454, RSSI:-111
+04:51:46 msg saved, nodeid:13623, sequence:243,waketime:785684, RSSI:-110
+05:07:19 Message discarded. Invalid message format.
+05:11:03 msg saved, nodeid:13623, sequence:244,waketime:788891, RSSI:-109
+05:20:00 Message discarded. Invalid message format.
+05:23:18 Message discarded. Invalid message format.
+05:30:20 msg saved, nodeid:13623, sequence:245,waketime:792127, RSSI:-108
+05:35:42 Message discarded. Invalid message format.
+05:49:37 msg saved, nodeid:13623, sequence:246,waketime:795334, RSSI:-108
+06:08:54 msg saved, nodeid:13623, sequence:247,waketime:798564, RSSI:-108
+06:28:11 msg saved, nodeid:13623, sequence:248,waketime:801775, RSSI:-109
+06:47:28 msg saved, nodeid:13623, sequence:249,waketime:805005, RSSI:-109
+07:06:45 msg saved, nodeid:13623, sequence:250,waketime:808212, RSSI:-110
+07:26:02 msg saved, nodeid:13623, sequence:251,waketime:811450, RSSI:-117
+07:45:19 Message discarded. Invalid message format.
+08:04:37 msg saved, nodeid:13623, sequence:253,waketime:817901, RSSI:-108
+08:23:54 msg saved, nodeid:13623, sequence:254,waketime:821116, RSSI:-106
+08:43:11 msg saved, nodeid:13623, sequence:255,waketime:824352, RSSI:-119
+08:57:37 Message discarded. Invalid message format.
+09:02:29 msg saved, nodeid:13623, sequence:256,waketime:827566, RSSI:-109
+09:16:32 Message discarded. Invalid message format.
+09:21:47 msg saved, nodeid:13623, sequence:257,waketime:830801, RSSI:-106
+09:38:20 Message discarded. Invalid message format.
+09:38:42 Message discarded. Invalid message format.
+09:41:05 msg saved, nodeid:13623, sequence:258,waketime:834017, RSSI:-106
+09:55:31 Message discarded. Invalid message format.
+10:00:24 msg saved, nodeid:13623, sequence:259,waketime:837255, RSSI:-107
+10:19:43 msg saved, nodeid:13623, sequence:260,waketime:840468, RSSI:-105
+10:29:50 Message discarded. Invalid message format.
+10:39:02 msg saved, nodeid:13623, sequence:261,waketime:843704, RSSI:-105
+10:58:20 msg saved, nodeid:13623, sequence:262,waketime:846919, RSSI:-106
+11:17:39 msg saved, nodeid:13623, sequence:263,waketime:850157, RSSI:-106
+11:36:57 msg saved, nodeid:13623, sequence:264,waketime:853370, RSSI:-107
+11:56:17 msg saved, nodeid:13623, sequence:265,waketime:856608, RSSI:-108
+12:15:36 msg saved, nodeid:13623, sequence:266,waketime:859822, RSSI:-108
+12:37:46 Message discarded. Invalid message format.
+12:54:15 msg saved, nodeid:13623, sequence:268,waketime:866273, RSSI:-107
+13:13:35 msg saved, nodeid:13623, sequence:269,waketime:869511, RSSI:-106
+13:32:54 msg saved, nodeid:13623, sequence:270,waketime:872724, RSSI:-107
+13:52:13 msg saved, nodeid:13623, sequence:271,waketime:875964, RSSI:-107
+14:11:33 msg saved, nodeid:13623, sequence:272,waketime:879177, RSSI:-108
+14:30:52 msg saved, nodeid:13623, sequence:273,waketime:882413, RSSI:-107
+14:50:12 msg saved, nodeid:13623, sequence:274,waketime:885626, RSSI:-107
+15:09:31 msg saved, nodeid:13623, sequence:275,waketime:888864, RSSI:-107
+15:28:50 msg saved, nodeid:13623, sequence:276,waketime:892078, RSSI:-107
+15:48:09 msg saved, nodeid:13623, sequence:277,waketime:895315, RSSI:-106
+16:07:27 msg saved, nodeid:13623, sequence:278,waketime:898529, RSSI:-108
+16:14:33 Message discarded. Invalid message format.
+16:26:46 msg saved, nodeid:13623, sequence:279,waketime:901765, RSSI:-106
+16:46:04 msg saved, nodeid:13623, sequence:280,waketime:904978, RSSI:-107
+17:05:23 msg saved, nodeid:13623, sequence:281,waketime:908214, RSSI:-107
+17:24:41 msg saved, nodeid:13623, sequence:282,waketime:911427, RSSI:-107
+17:44:00 msg saved, nodeid:13623, sequence:283,waketime:914665, RSSI:-107
+18:03:18 msg saved, nodeid:13623, sequence:284,waketime:917878, RSSI:-106
+18:22:36 msg saved, nodeid:13623, sequence:285,waketime:921108, RSSI:-107
+18:41:54 msg saved, nodeid:13623, sequence:286,waketime:924315, RSSI:-108
+19:01:12 msg saved, nodeid:13623, sequence:287,waketime:927551, RSSI:-112
+19:03:45 Message discarded. Invalid message format.
+19:20:30 msg saved, nodeid:13623, sequence:288,waketime:930758, RSSI:-106
+19:39:48 msg saved, nodeid:13623, sequence:289,waketime:933988, RSSI:-111
+19:59:06 msg saved, nodeid:13623, sequence:290,waketime:937195, RSSI:-113
+20:18:23 msg saved, nodeid:13623, sequence:291,waketime:940427, RSSI:-108
+20:37:41 msg saved, nodeid:13623, sequence:292,waketime:943634, RSSI:-112
+20:57:00 msg saved, nodeid:13623, sequence:293,waketime:946868, RSSI:-115
+21:16:18 msg saved, nodeid:13623, sequence:294,waketime:950075, RSSI:-111
+21:35:35 msg saved, nodeid:13623, sequence:295,waketime:953305, RSSI:-109
+21:46:46 Message discarded. Invalid message format.
+21:54:53 msg saved, nodeid:13623, sequence:296,waketime:956514, RSSI:-109
+22:02:35 Message discarded. Invalid message format.
+22:14:10 msg saved, nodeid:13623, sequence:297,waketime:959746, RSSI:-107
+22:19:47 Message discarded. Invalid message format.
+22:33:28 msg saved, nodeid:13623, sequence:298,waketime:962953, RSSI:-107
+22:52:45 msg saved, nodeid:13623, sequence:299,waketime:966182, RSSI:-107
+23:03:24 Message discarded. Invalid message format.
+23:12:02 msg saved, nodeid:13623, sequence:300,waketime:969392, RSSI:-106
+23:30:26 Message discarded. Invalid message format.
+23:31:19 msg saved, nodeid:13623, sequence:301,waketime:972623, RSSI:-108
+23:50:35 msg saved, nodeid:13623, sequence:302,waketime:975831, RSSI:-107
+Reading file: /logs/1723593600
+Read from file: 00:09:52 msg saved, nodeid:13623, sequence:303,waketime:979066, RSSI:-106
+00:29:08 msg saved, nodeid:13623, sequence:304,waketime:982274, RSSI:-106
+00:40:39 Message discarded. Invalid message format.
+00:48:24 msg saved, nodeid:13623, sequence:305,waketime:985503, RSSI:-106
+01:00:11 Message discarded. Invalid message format.
+01:07:41 msg saved, nodeid:13623, sequence:306,waketime:988712, RSSI:-105
+01:26:58 msg saved, nodeid:13623, sequence:307,waketime:991944, RSSI:-107
+01:28:25 Message discarded. Invalid message format.
+01:46:14 msg saved, nodeid:13623, sequence:308,waketime:995151, RSSI:-107
+01:49:39 Message discarded. Invalid message format.
+01:51:13 Message discarded. Invalid message format.
+02:05:31 msg saved, nodeid:13623, sequence:309,waketime:998387, RSSI:-107
+02:24:47 msg saved, nodeid:13623, sequence:310,waketime:1001594, RSSI:-107
+02:44:04 msg saved, nodeid:13623, sequence:311,waketime:1004824, RSSI:-107
+03:03:21 msg saved, nodeid:13623, sequence:312,waketime:1008033, RSSI:-107
+03:22:37 msg saved, nodeid:13623, sequence:313,waketime:1011263, RSSI:-108
+03:41:54 msg saved, nodeid:13623, sequence:314,waketime:1014470, RSSI:-108
+04:01:11 msg saved, nodeid:13623, sequence:315,waketime:1017704, RSSI:-106
+04:39:44 msg saved, nodeid:13623, sequence:317,waketime:1024141, RSSI:-106
+04:43:46 Message discarded. Invalid message format.
+04:59:01 msg saved, nodeid:13623, sequence:318,waketime:1027350, RSSI:-107
+05:37:34 msg saved, nodeid:13623, sequence:320,waketime:1033789, RSSI:-107
+05:42:42 Message discarded. Invalid message format.
+05:56:51 msg saved, nodeid:13623, sequence:321,waketime:1037025, RSSI:-107
+06:16:07 msg saved, nodeid:13623, sequence:322,waketime:1040232, RSSI:-108
+06:35:23 msg saved, nodeid:13623, sequence:323,waketime:1043462, RSSI:-107
+07:11:56 Message discarded. Invalid message format.
+07:13:56 msg saved, nodeid:13623, sequence:325,waketime:1049909, RSSI:-107
+07:33:13 msg saved, nodeid:13623, sequence:326,waketime:1053122, RSSI:-109
+07:52:29 msg saved, nodeid:13623, sequence:327,waketime:1056360, RSSI:-107
+07:55:44 Message discarded. Invalid message format.
+08:11:46 msg saved, nodeid:13623, sequence:328,waketime:1059573, RSSI:-110
+08:31:03 msg saved, nodeid:13623, sequence:329,waketime:1062809, RSSI:-115
+08:50:19 msg saved, nodeid:13623, sequence:330,waketime:1066022, RSSI:-104
+09:09:36 msg saved, nodeid:13623, sequence:331,waketime:1069258, RSSI:-104
+09:13:25 Message discarded. Invalid message format.
+09:28:53 msg saved, nodeid:13623, sequence:332,waketime:1072472, RSSI:-103
+09:48:11 msg saved, nodeid:13623, sequence:333,waketime:1075709, RSSI:-109
+10:07:28 msg saved, nodeid:13623, sequence:334,waketime:1078925, RSSI:-115
+10:26:46 msg saved, nodeid:13623, sequence:335,waketime:1082161, RSSI:-118
+11:05:23 msg saved, nodeid:13623, sequence:337,waketime:1088612, RSSI:-122
+11:07:09 Message discarded. Invalid message format.
+11:24:41 msg saved, nodeid:13623, sequence:338,waketime:1091825, RSSI:-120
+12:00:38 Message discarded. Invalid message format.
+12:03:17 msg saved, nodeid:13623, sequence:340,waketime:1098278, RSSI:-122
+12:56:43 Message discarded. Invalid message format.
+13:01:11 msg saved, nodeid:13623, sequence:343,waketime:1107965, RSSI:-119
+13:20:30 msg saved, nodeid:13623, sequence:344,waketime:1111181, RSSI:-120
+13:39:49 msg saved, nodeid:13623, sequence:345,waketime:1114417, RSSI:-119
+13:50:55 Message discarded. Invalid message format.
+13:59:08 msg saved, nodeid:13623, sequence:346,waketime:1117630, RSSI:-122
+14:37:45 msg saved, nodeid:13623, sequence:348,waketime:1124081, RSSI:-118
+15:16:22 msg saved, nodeid:13623, sequence:350,waketime:1130530, RSSI:-119
+15:35:40 msg saved, nodeid:13623, sequence:351,waketime:1133768, RSSI:-118
+15:35:59 Message discarded. Invalid message format.
+16:14:17 msg saved, nodeid:13623, sequence:353,waketime:1140217, RSSI:-118
+16:33:36 msg saved, nodeid:13623, sequence:354,waketime:1143431, RSSI:-119
+16:37:55 Message discarded. Invalid message format.
+16:52:55 msg saved, nodeid:13623, sequence:355,waketime:1146669, RSSI:-115
+17:12:13 msg saved, nodeid:13623, sequence:356,waketime:1149884, RSSI:-116
+17:31:31 msg saved, nodeid:13623, sequence:357,waketime:1153122, RSSI:-116
+17:50:49 msg saved, nodeid:13623, sequence:358,waketime:1156335, RSSI:-115
+18:10:06 msg saved, nodeid:13623, sequence:359,waketime:1159571, RSSI:-118
+18:29:24 msg saved, nodeid:13623, sequence:360,waketime:1162784, RSSI:-117
+18:35:51 Message discarded. Invalid message format.
+18:48:42 msg saved, nodeid:13623, sequence:361,waketime:1166020, RSSI:-114
+18:58:51 Message discarded. Invalid message format.
+19:07:59 msg saved, nodeid:13623, sequence:362,waketime:1169229, RSSI:-116
+19:20:25 Message discarded. Invalid message format.
+19:27:16 msg saved, nodeid:13623, sequence:363,waketime:1172461, RSSI:-117
+19:46:33 msg saved, nodeid:13623, sequence:364,waketime:1175668, RSSI:-119
+20:01:05 Message discarded. Invalid message format.
+20:05:50 msg saved, nodeid:13623, sequence:365,waketime:1178904, RSSI:-110
+20:44:24 Message discarded. unmatched network ID.
+21:03:41 msg saved, nodeid:13623, sequence:368,waketime:1188552, RSSI:-109
+21:22:58 msg saved, nodeid:13623, sequence:369,waketime:1191782, RSSI:-109
+21:42:15 msg saved, nodeid:13623, sequence:370,waketime:1194989, RSSI:-110
+22:01:32 msg saved, nodeid:13623, sequence:371,waketime:1198223, RSSI:-110
+22:16:32 Message discarded. Invalid message format.
+22:40:06 msg saved, nodeid:13623, sequence:373,waketime:1204660, RSSI:-109
+23:18:41 msg saved, nodeid:13623, sequence:375,waketime:1211099, RSSI:-110
+23:37:58 msg saved, nodeid:1363#, sequence:37,waketime:1211099, RSSI:-111
+23:43:17 Message discarded. Invalid message format.
+23:57:16 msg saved, nodeid:13623, sequence:377,waketime:1217538, RSSI:-110
+Reading file: /logs/1723680000
+Read from file: 00:16:33 msg saved, nodeid:13623, sequence:378,waketime:1220745, RSSI:-110
+00:35:49 msg saved, nodeid:13623, sequence:379,waketime:1223974, RSSI:-110
+00:55:06 msg saved, nodeid:13623, sequence:380,waketime:1227184, RSSI:-111
+00:55:26 Message discarded. Invalid message format.
+00:56:14 Message discarded. Invalid message format.
+01:14:23 msg saved, nodeid:13623, sequence:381,waketime:1230413, RSSI:-111
+01:27:22 Message discarded. Invalid message format.
+01:33:39 msg saved, nodeid:13623, sequence:382,waketime:1233620, RSSI:-110
+01:39:21 Message discarded. Invalid message format.
+02:18:18 Message discarded. Invalid message format.
+02:31:30 msg saved, nodeid:13623, sequence:385,waketime:1243293, RSSI:-111
+02:50:47 msg saved, nodeid:13623, sequence:386,waketime:1246500, RSSI:-111
+03:10:03 msg saved, nodeid:13623, sequence:387,waketime:1249732, RSSI:-111
+03:48:36 msg saved, nodeid:13623, sequence:389,waketime:1256171, RSSI:-110
+04:07:52 msg saved, nodeid:13623, sequence:390,waketime:1259378, RSSI:-111
+04:27:09 msg saved, nodeid:13623, sequence:391,waketime:1262608, RSSI:-111
+04:46:25 msg saved, nodeid:13623, sequence:392,waketime:1265819, RSSI:-110
+04:53:22 Message discarded. Invalid message format.
+05:05:41 msg saved, nodeid:13623, sequence:393,waketime:1269049, RSSI:-110
+05:24:57 msg saved, nodeid:13623, sequence:394,waketime:1272256, RSSI:-110
+05:39:49 Message discarded. Invalid message format.
+05:44:13 msg saved, nodeid:13623, sequence:395,waketime:1275492, RSSI:-111
+06:03:29 msg saved, nodeid:13623, sequence:396,waketime:1278699, RSSI:-110
+06:09:09 Message discarded. Invalid message format.
+06:14:28 Message discarded. Invalid message format.
+06:22:45 msg saved, nodeid:13623, sequence:397,waketime:1281931, RSSI:-109
+06:30:59 Message discarded. Invalid message format.
+06:42:01 msg saved, nodeid:13623, sequence:398,waketime:1285144, RSSI:-109
+Reading file: /logs/1723939200
+Read from file: 16:17:48 Message discarded. Invalid message format.
+17:13:04 Message discarded. Invalid message format.
+17:27:39 Message discarded. Invalid message format.
+17:48:04 Message discarded. Invalid message format.
+18:24:35 Message discarded. Invalid message format.
+18:35:39 Message discarded. Invalid message format.
+18:48:46 Message discarded. Invalid message format.
+19:50:58 Message discarded. Invalid message format.
+20:59:08 Message discarded. Invalid message format.
+21:06:41 Message discarded. Invalid message format.
+22:00:24 Message discarded. Invalid message format.
+22:05:38 Message discarded. Invalid message format.
+22:24:02 Message discarded. Invalid message format.
+22:58:10 Message discarded. Invalid message format.
+22:59:25 Message discarded. Invalid message format.
+Reading file: /logs/1724025600
+Read from file: 00:30:51 Message discarded. Invalid message format.
+03:52:47 Message discarded. Invalid message format.
+04:18:50 Message discarded. Invalid message format.
+05:34:40 Message discarded. Invalid message format.
+08:14:24 Message discarded. Invalid message format.
+09:42:58 Message discarded. Invalid message format.
+17:39:25 Message discarded. Invalid message format.
+18:47:44 Message discarded. Invalid message format.
+19:27:28 Message discarded. Invalid message format.
+20:14:34 Message discarded. Invalid message format.
+20:59:31 msg saved, nodeid:13623, sequence:0,waketime:382046, RSSI:-61
+21:18:48 msg saved, nodeid:13623, sequence:1,waketime:385271, RSSI:-46
+21:38:05 msg saved, nodeid:13623, sequence:2,waketime:388472, RSSI:-48
+21:57:22 msg saved, nodeid:13623, sequence:3,waketime:391698, RSSI:-46
+22:16:39 msg saved, nodeid:13623, sequence:4,waketime:394899, RSSI:-47
+22:35:56 msg saved, nodeid:13623, sequence:5,waketime:398125, RSSI:-48
+22:36:53 Message discarded. Invalid message format.
+22:55:14 msg saved, nodeid:13623, sequence:6,waketime:401330, RSSI:-48
+23:31:12 Message discarded. Invalid message format.
+23:33:49 msg saved, nodeid:13623, sequence:8,waketime:407756, RSSI:-50
+Reading file: /logs/1724112000
+Read from file: 00:02:54 Message discarded. Invalid message format.
+00:12:25 msg saved, nodeid:13623, sequence:10,waketime:414183, RSSI:-50
+00:19:54 Message discarded. Invalid message format.
+00:31:43 msg saved, nodeid:13623, sequence:11,waketime:417413, RSSI:-50
+00:51:00 msg saved, nodeid:13623, sequence:12,waketime:420620, RSSI:-50
+01:05:35 Message discarded. Invalid message format.
+01:10:18 msg saved, nodeid:13623, sequence:13,waketime:423852, RSSI:-50
+01:29:35 msg saved, nodeid:13623, sequence:14,waketime:427059, RSSI:-50
+01:43:54 Message discarded. Invalid message format.
+02:19:53 Message discarded. Invalid message format.
+02:27:28 msg saved, nodeid:13623, sequence:17,waketime:436727, RSSI:-50
+02:46:46 msg saved, nodeid:13623, sequence:18,waketime:439934, RSSI:-50
+03:06:04 msg saved, nodeid:13623, sequence:19,waketime:443164, RSSI:-50
+03:25:21 msg saved, nodeid:13623, sequence:20,waketime:446371, RSSI:-50
+03:44:39 msg saved, nodeid:13623, sequence:21,waketime:449603, RSSI:-49
+04:03:56 msg saved, nodeid:13623, sequence:22,waketime:452810, RSSI:-50
+04:23:14 msg saved, nodeid:13623, sequence:23,waketime:456040, RSSI:-50
+05:01:49 msg saved, nodeid:13623, sequence:25,waketime:462479, RSSI:-50
+05:21:07 msg saved, nodeid:13623, sequence:26,waketime:465686, RSSI:-50
+05:40:25 msg saved, nodeid:13623, sequence:27,waketime:468916, RSSI:-49
+05:59:43 msg saved, nodeid:13623, sequence:28,waketime:472123, RSSI:-49
+06:19:00 msg saved, nodeid:13623, sequence:29,waketime:475355, RSSI:-49
+06:19:02 Message discarded. Invalid message format.
+06:38:18 msg saved, nodeid:13623, sequence:30,waketime:478562, RSSI:-50
+06:57:36 msg saved, nodeid:13623, sequence:31,waketime:481792, RSSI:-49
+07:16:54 msg saved, nodeid:13623, sequence:32,waketime:484999, RSSI:-50
+07:30:23 Message discarded. Invalid message format.
+07:36:11 msg saved, nodeid:13623, sequence:33,waketime:488228, RSSI:-50
+07:40:12 Message discarded. Invalid message format.
+07:55:29 msg saved, nodeid:13623, sequence:34,waketime:491440, RSSI:-50
+08:14:46 msg saved, nodeid:13623, sequence:35,waketime:494669, RSSI:-50
+08:34:04 msg saved, nodeid:13623, sequence:36,waketime:497876, RSSI:-50
+08:53:21 msg saved, nodeid:13623, sequence:37,waketime:501106, RSSI:-51
+09:31:56 msg saved, nodeid:13623, sequence:39,waketime:507549, RSSI:-50
+09:51:13 msg saved, nodeid:13623, sequence:40,waketime:510756, RSSI:-72
+04:26:07 System booted up
+04:27:09 msg saved, nodeid:32474, sequence:1268,waketime:4089993, RSSI:-96
+04:41:56 msg saved, nodeid:32474, sequence:1269,waketime:4093231, RSSI:-95
+04:46:54 msg saved, nodeid:13623, sequence:0,waketime:3151, RSSI:-44
+04:49:22 Message discarded. Invalid message format.
+04:56:43 msg saved, nodeid:32474, sequence:1270,waketime:4096444, RSSI:-105
+05:06:11 msg saved, nodeid:13623, sequence:1,waketime:6377, RSSI:-42
+05:25:28 msg saved, nodeid:13623, sequence:2,waketime:9582, RSSI:-43
+05:26:16 msg saved, nodeid:32474, sequence:1272,waketime:4102893, RSSI:-104
+05:27:46 Message discarded. Invalid message format.
+05:31:45 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-44
+05:34:06 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-46
+05:34:56 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-45
+05:41:03 msg saved, nodeid:32474, sequence:1273,waketime:4106135, RSSI:-95
+06:23:49 System booted up
+06:24:58 System booted up
+06:25:15 System booted up
+06:25:23 msg saved, nodeid:32474, sequence:1276,waketime:4115800, RSSI:-93
+08:55:46 System booted up
+08:56:35 System booted up
+08:56:49 System booted up
+09:00:20 msg saved, nodeid:13623, sequence:0,waketime:3151, RSSI:-41
+09:00:31 msg saved, nodeid:13623, sequence:0,waketime:3151, RSSI:-41
+09:02:01 msg saved, nodeid:13623, sequence:0,waketime:3151, RSSI:-39
+09:02:09 System booted up
+09:02:26 System booted up
+09:21:16 msg saved, nodeid:13623, sequence:1,waketime:6377, RSSI:-38
+09:59:49 msg saved, nodeid:13623, sequence:3,waketime:12806, RSSI:-39
+10:19:06 msg saved, nodeid:13623, sequence:4,waketime:16007, RSSI:-37
+10:38:23 msg saved, nodeid:13623, sequence:5,waketime:19232, RSSI:-45
+10:45:44 System booted up
+10:57:39 msg saved, nodeid:13623, sequence:6,waketime:22435, RSSI:-44
+11:16:56 msg saved, nodeid:13623, sequence:7,waketime:25661, RSSI:-43
+11:47:42 Message discarded. Invalid message format.
+11:55:30 msg saved, nodeid:13623, sequence:9,waketime:32090, RSSI:-43
+12:03:05 System booted up
+12:14:47 msg saved, nodeid:13623, sequence:10,waketime:35293, RSSI:-50
+12:29:26 Message discarded. Invalid message format.
+12:34:03 msg saved, nodeid:13623, sequence:11,waketime:38518, RSSI:-49
+12:53:20 msg saved, nodeid:13623, sequence:12,waketime:41721, RSSI:-49
+13:07:45 Message discarded. Invalid message format.
+13:12:37 msg saved, nodeid:13623, sequence:13,waketime:44945, RSSI:-48
+13:31:56 System booted up
+13:51:10 msg saved, nodeid:13623, sequence:15,waketime:51376, RSSI:-48
+14:04:27 Message discarded. Invalid message format.
+14:10:26 msg saved, nodeid:13623, sequence:16,waketime:54577, RSSI:-48
+14:29:42 msg saved, nodeid:13623, sequence:17,waketime:57804, RSSI:-48
+14:48:58 msg saved, nodeid:13623, sequence:18,waketime:61005, RSSI:-48
+15:08:15 msg saved, nodeid:13623, sequence:19,waketime:64231, RSSI:-48
+15:27:31 msg saved, nodeid:13623, sequence:20,waketime:67434, RSSI:-48
+15:46:47 msg saved, nodeid:13623, sequence:21,waketime:70660, RSSI:-49
+16:06:03 msg saved, nodeid:13623, sequence:22,waketime:73863, RSSI:-49
+16:25:12 Message discarded. Invalid message format.
+16:25:19 msg saved, nodeid:13623, sequence:23,waketime:77086, RSSI:-49
+16:44:35 msg saved, nodeid:13623, sequence:24,waketime:80289, RSSI:-49
+17:03:51 msg saved, nodeid:13623, sequence:25,waketime:83519, RSSI:-48
+17:23:07 msg saved, nodeid:13623, sequence:26,waketime:86720, RSSI:-48
+17:42:23 msg saved, nodeid:13623, sequence:27,waketime:89948, RSSI:-48
+18:01:39 msg saved, nodeid:13623, sequence:28,waketime:93149, RSSI:-48
+18:06:08 Message discarded. Invalid message format.
+18:20:54 msg saved, nodeid:13623, sequence:29,waketime:96376, RSSI:-48
+18:59:25 msg saved, nodeid:13623, sequence:31,waketime:102803, RSSI:-49
+19:18:41 msg saved, nodeid:13623, sequence:32,waketime:106010, RSSI:-49
+19:20:14 Message discarded. Invalid message format.
+19:37:57 msg saved, nodeid:13623, sequence:33,waketime:109240, RSSI:-49
+19:57:13 msg saved, nodeid:13623, sequence:34,waketime:112447, RSSI:-48
+20:16:29 msg saved, nodeid:13623, sequence:35,waketime:115677, RSSI:-49
+20:35:45 msg saved, nodeid:13623, sequence:36,waketime:118884, RSSI:-49
+20:55:01 msg saved, nodeid:13623, sequence:37,waketime:122116, RSSI:-48
+20:58:28 Message discarded. Invalid message format.
+21:00:36 Message discarded. Invalid message format.
+21:14:17 msg saved, nodeid:13623, sequence:38,waketime:125325, RSSI:-49
+21:46:06 Message discarded. Invalid message format.
+22:07:38 Message discarded. Invalid message format.
+22:12:06 msg saved, nodeid:13623, sequence:41,waketime:134995, RSSI:-49
+22:31:22 msg saved, nodeid:13623, sequence:42,waketime:138203, RSSI:-49
+22:50:38 msg saved, nodeid:13623, sequence:43,waketime:141432, RSSI:-49
+23:09:55 msg saved, nodeid:13623, sequence:44,waketime:144640, RSSI:-48
+23:17:31 System booted up
+23:17:45 System booted up
+23:29:11 msg saved, nodeid:13623, sequence:45,waketime:147869, RSSI:-50
+23:31:10 System booted up
+Reading file: /logs/1724284800
+Read from file: 01:07:39 System booted up
+01:27:21 Message discarded. Invalid message format.
+02:36:31 Message discarded. Invalid message format.
+03:27:53 Message discarded. Invalid message format.
+05:30:04 Message discarded. Invalid message format.
+07:50:18 Message discarded. Invalid message format.
+08:01:48 Message discarded. Invalid message format.
+08:10:22 Message discarded. Invalid message format.
+11:41:23 Message discarded. Invalid message format.
+11:45:38 Message discarded. Invalid message format.
+13:29:47 Message discarded. Invalid message format.
+15:48:37 Message discarded. Invalid message format.
+17:07:06 Message discarded. Invalid message format.
+17:50:07 Message discarded. Invalid message format.
+18:12:20 Message discarded. Invalid message format.
+18:39:09 Message discarded. Invalid message format.
+19:24:11 Message discarded. Invalid message format.
+20:07:23 Message discarded. Invalid message format.
+22:06:47 Message discarded. Invalid message format.
+22:16:51 System booted up
+22:17:22 System booted up
+22:17:34 System booted up
+22:17:54 System booted up
+22:18:28 System booted up
+22:18:44 System booted up
+22:18:53 System booted up
+22:20:21 System booted up
+22:20:30 System booted up
+22:26:41 System booted up
+22:27:08 System booted up
+22:28:29 System booted up
+22:36:43 Message discarded. Invalid message format.
+Reading file: /logs/1724371200
+Read from file: 00:57:03 System booted up
+02:46:59 Message discarded. Invalid message format.
+03:59:39 Message discarded. Invalid message format.
+04:04:37 Message discarded. Invalid message format.
+04:07:08 Message discarded. Invalid message format.
+05:12:48 Message discarded. Invalid message format.
+10:51:51 Message discarded. Invalid message format.
+10:56:28 Message discarded. Invalid message format.
+12:49:28 Message discarded. Invalid message format.
+13:08:23 Message discarded. Invalid message format.
+13:33:56 Message discarded. Invalid message format.
+15:05:16 Message discarded. Invalid message format.
+16:13:31 Message discarded. Invalid message format.
+17:50:36 Message discarded. Invalid message format.
+17:53:53 Message discarded. Invalid message format.
+17:58:29 Message discarded. Invalid message format.
+19:17:56 Message discarded. Invalid message format.
+20:03:41 Message discarded. Invalid message format.
+21:01:56 Message discarded. Invalid message format.
+22:24:49 Message discarded. Invalid message format.
+23:19:57 System booted up
+23:50:12 Message discarded. Invalid message format.
+23:50:28 Message discarded. Invalid message format.
+Reading file: /logs/1724457600
+Read from file: 00:58:01 Message discarded. Invalid message format.
+01:13:54 Message discarded. Invalid message format.
+03:44:18 Message discarded. Invalid message format.
+03:46:40 Message discarded. Invalid message format.
+04:17:46 Message discarded. Invalid message format.
+05:31:08 Message discarded. Invalid message format.
+05:36:49 Message discarded. Invalid message format.
+07:17:11 Message discarded. Invalid message format.
+08:50:21 Message discarded. Invalid message format.
+09:54:03 Message discarded. Invalid message format.
+11:34:03 Message discarded. Invalid message format.
+12:08:50 Message discarded. Invalid message format.
+12:48:41 Message discarded. Invalid message format.
+12:58:21 Message discarded. Invalid message format.
+13:52:22 Message discarded. Invalid message format.
+14:25:07 Message discarded. Invalid message format.
+17:55:05 Message discarded. Invalid message format.
+19:07:38 Message discarded. Invalid message format.
+20:27:11 Message discarded. Invalid message format.
+21:40:28 Message discarded. Invalid message format.
+22:47:44 Message discarded. Invalid message format.
+23:01:33 Message discarded. Invalid message format.
+Reading file: /logs/1724544000
+Read from file: 00:13:16 Message discarded. Invalid message format.
+00:39:27 System booted up
+02:26:23 Message discarded. Invalid message format.
+03:11:12 Message discarded. Invalid message format.
+05:30:22 Message discarded. Invalid message format.
+05:46:37 Message discarded. Invalid message format.
+05:56:10 Message discarded. Invalid message format.
+07:07:58 Message discarded. Invalid message format.
+07:34:03 Message discarded. Invalid message format.
+08:59:12 Message discarded. Invalid message format.
+09:42:14 Message discarded. Invalid message format.
+12:13:09 Message discarded. Invalid message format.
+17:07:06 Message discarded. Invalid message format.
+18:07:12 Message discarded. Invalid message format.
+21:14:39 Message discarded. Invalid message format.
+21:15:26 Message discarded. Invalid message format.
+21:25:19 Message discarded. Invalid message format.
+21:29:28 Message discarded. Invalid message format.
+22:06:50 Message discarded. Invalid message format.
+22:25:33 Message discarded. Invalid message format.
+22:56:29 Message discarded. Invalid message format.
+Reading file: /logs/1724630400
+Read from file: 00:32:08 Message discarded. Invalid message format.
+00:47:36 Message discarded. Invalid message format.
+01:54:47 Message discarded. Invalid message format.
+03:38:05 Message discarded. Invalid message format.
+03:55:01 Message discarded. Invalid message format.
+06:01:13 Message discarded. Invalid message format.
+06:21:35 Message discarded. Invalid message format.
+10:26:16 Message discarded. Invalid message format.
+10:38:24 Message discarded. Invalid message format.
+11:19:49 Message discarded. Invalid message format.
+11:27:50 Message discarded. Invalid message format.
+12:08:50 Message discarded. Invalid message format.
+12:30:35 Message discarded. Invalid message format.
+13:49:41 Message discarded. Invalid message format.
+13:56:07 Message discarded. Invalid message format.
+14:30:32 Message discarded. Invalid message format.
+14:52:39 Message discarded. Invalid message format.
+18:00:41 Message discarded. Invalid message format.
+20:56:32 Message discarded. Invalid message format.
+21:01:19 Message discarded. Invalid message format.
+22:59:32 Message discarded. Invalid message format.
+23:07:33 Message discarded. Invalid message format.
+23:22:04 Message discarded. Invalid message format.
+Reading file: /logs/1724716800
+Read from file: 00:35:56 Message discarded. Invalid message format.
+02:11:47 Message discarded. Invalid message format.
+03:43:00 Message discarded. Invalid message format.
+04:49:19 Message discarded. Invalid message format.
+06:37:45 Message discarded. Invalid message format.
+07:06:34 Message discarded. Invalid message format.
+08:19:12 Message discarded. Invalid message format.
+12:44:06 Message discarded. Invalid message format.
+16:12:40 Message discarded. Invalid message format.
+17:34:02 Message discarded. Invalid message format.
+19:20:08 Message discarded. Invalid message format.
+20:13:16 Message discarded. Invalid message format.
+21:00:35 Message discarded. Invalid message format.
+21:26:13 Message discarded. Invalid message format.
+21:33:45 Message discarded. Invalid message format.
+21:44:34 Message discarded. Invalid message format.
+21:57:15 Message discarded. Invalid message format.
+22:51:48 Message discarded. Invalid message format.
+23:49:36 Message discarded. Invalid message format.
+Reading file: /logs/1724803200
+Read from file: 00:22:06 System booted up
+00:22:27 System booted up
+00:22:39 System booted up
+00:23:02 System booted up
+00:26:06 System booted up
+00:27:32 System booted up
+00:28:24 System booted up
+00:34:01 System booted up
+00:41:22 msg saved, nodeid:13623, sequence:1,waketime:6385, RSSI:-98
+01:00:44 msg saved, nodeid:13623, sequence:2,waketime:9594, RSSI:-103
+01:00:48 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-103
+01:00:53 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:03 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:12 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:22 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:31 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:41 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:46 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:01:50 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:01:55 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-100
+01:02:00 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-100
+01:02:05 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-102
+01:02:09 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-101
+01:02:19 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-99
+01:02:24 Message discarded. unmatched network ID.
+01:02:29 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:02:33 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-101
+01:02:43 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-103
+01:02:48 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-103
+01:02:52 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:03:02 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:07 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:03:11 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:03:16 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:03:21 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:26 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:35 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:40 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:45 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:50 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:54 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:03:59 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:04:04 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:04:09 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-104
+01:04:18 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:04:28 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-104
+01:04:37 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:04:42 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:04:47 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-102
+01:04:52 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:04:56 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:05:01 msg saved, nodeid:13623, sequence:0,waketime:3153, RSSI:-103
+01:05:06 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-103
+01:05:11 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-102
+01:05:16 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-102
+01:05:21 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-103
+01:05:49 msg saved, nodeid:13623, sequence:0,waketime:3155, RSSI:-102
+01:35:16 Message discarded. Invalid message format.
+02:20:17 Message discarded. Invalid message format.
+02:59:11 Message discarded. Invalid message format.
+03:07:37 Message discarded. Invalid message format.
+04:34:14 Message discarded. Invalid message format.
+06:21:14 Message discarded. Invalid message format.
+06:50:25 Message discarded. Invalid message format.
+08:36:15 System booted up
+08:36:45 System booted up
+08:37:02 System booted up
+09:11:20 Message discarded. Invalid message format.
+11:46:59 Message discarded. Invalid message format.
+13:31:37 Message discarded. Invalid message format.
+15:40:45 Message discarded. Invalid message format.
+15:50:40 Message discarded. Invalid message format.
+16:13:41 Message discarded. Invalid message format.
+16:59:09 Message discarded. Invalid message format.
+17:12:52 Message discarded. Invalid message format.
+18:58:30 Message discarded. Invalid message format.
+20:25:57 Message discarded. Invalid message format.
+21:34:38 Message discarded. Invalid message format.
+22:47:49 Message discarded. Invalid message format.
+22:58:45 Message discarded. Invalid message format.
+23:37:02 System booted up
+23:37:39 System booted up
