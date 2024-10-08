@@ -2,7 +2,7 @@
 
 For and easier build of the electronic componet of this project, we have designed PCBs for both the sensor module circuit and the receiver device circuit.
 
-The PCB was perposefully designed to use only through hole components to make it easier for person with average soldering skills to use. The PCB version of the sensor module circuit is also made to be smaller in foamfacter as it sould allow the use of smaller enclosures.
+The PCB was perposefully designed to use only through hole components to make it easier for person with average soldering skills to build. The PCB version of the sensor module circuit is also made to be smaller in formfacter as it sould allow the use of smaller enclosures.
 
 This repository contains the Gerber files and EasyEDA design files for **Apocalype Sensor Kit.** You can use these files to manufacture the PCB or modify the circuit if needed.
 
