@@ -18,6 +18,10 @@ These sensors have solar cells for charging and can average up to two months wit
 
 If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings. This assumes you have some technical expertise (if not, get a friend to help you!) 
 
+### [Sinhala version of this manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Sinhala.md)
+
+### [Tamil version of this manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Tamil.md)
+
 
 ## 1. Before You Begin
    
@@ -117,12 +121,6 @@ The receiver device provides a CLI for advanced troubleshooting and management. 
 Use these commands to manage data, check system status, and diagnose issues as needed.
 
 For any additional support or questions, please refer to the full [documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki).
-
-## Translations
-
-### [Sinhala version of this manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Sinhala.md)
-
-### [Tamil version of this manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Tamil.md)
 
 ## License
 
