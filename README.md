@@ -1,7 +1,7 @@
 # The Apocalypse Sensor Kit
  developed by Sahan Panditharathne
 
-The Apocalypse Sensor Kit is a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It comes with a mobile app, which you can [download from this link](https://github.com/team-watchdog/apocalypse-sensor-kit/releases/tag/v1.0.0). 
+The Apocalypse Sensor Kit is a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It's essentially most of the same functions as most state of the art farm monitoring equipment, but a lot cheaper. It comes with a mobile app, which you can [download from this link](https://github.com/team-watchdog/apocalypse-sensor-kit/releases/tag/v1.0.0). 
 
 ![image](https://github.com/user-attachments/assets/cfc0591f-ce04-4ae8-a2c1-cbe2be183927)
 
@@ -15,8 +15,6 @@ Here's what each sensor node looks like when fully assembled and deployed. If it
 These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever (LKR 3850) over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor clusters of sensors. 
 
 ![image](https://github.com/user-attachments/assets/a16c595d-e630-4058-9226-6fc1f5d599c2)
-
-It's essentially most of the same functions as most state of the art farm monitoring equipment, but a lot cheaper. It's meant to be used in with our Apocalypse Garden Wiki, which is about growing 70+ crops in Sri Lanka - and the conditions you need for them. 
 
 If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings. This assumes you have some technical expertise (if not, get a friend to help you!) 
 
