@@ -1,6 +1,10 @@
 # The Apocalypse Sensor Kit
  developed by Sahan Panditharathne
 
+[සිංහලෙන් කියවන්න](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Sinhala.md)
+[தமிழில் படியுங்கள்](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Tamil.md)
+
+
 The Apocalypse Sensor Kit is a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It's essentially most of the same functions as most state of the art farm monitoring equipment, but a lot cheaper. It comes with a mobile app, which you can [download from this link](https://github.com/team-watchdog/apocalypse-sensor-kit/releases/tag/v1.0.0). 
 
 ![image](https://github.com/user-attachments/assets/cfc0591f-ce04-4ae8-a2c1-cbe2be183927)
@@ -16,11 +20,8 @@ These sensors have solar cells for charging and can average up to two months wit
 
 ![image](https://github.com/user-attachments/assets/a16c595d-e630-4058-9226-6fc1f5d599c2)
 
-If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings. This assumes you have some technical expertise (if not, get a friend to help you!) 
+What you're reading now is the basic operations and maintenance manual. If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings. This assumes you have some technical expertise (if not, get a friend to help you!) 
 
-### [Sinhala version of this manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Sinhala.md)
-
-### [Tamil version of this manual](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Tamil.md)
 
 
 ## 1. Before You Begin
