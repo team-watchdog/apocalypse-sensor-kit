@@ -1,4 +1,4 @@
-# The Apocalypse Sensor Kit
+# The Apocalypse Sensor Kit Manual
  developed by Sahan Panditharathne
 
 [සිංහලෙන් කියවන්න](https://github.com/team-watchdog/apocalypse-sensor-kit/blob/main/README-Sinhala.md)
