@@ -1,9 +1,7 @@
 # The Apocalypse Sensor Kit
-designed and developed by Sahan Panditharathne
+ developed by Sahan Panditharathne
 
-Welcome to the Apocalypse Sensor Kit user manual. 
-
-The Apocalypse Sensor Kit is meant for gardening. It's a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It comes with a mobile app. 
+Welcome to the Apocalypse Sensor Kit user manual. This is a companion to our records of 70 growable plants at [Lanka.wiki](https://lanka.wiki).  The Apocalypse Sensor Kit is meant for gardening. It's a cheap, DIY suite of hardware and software that you can put together yourself, plant in the ground, and get readings for light intensity, soil moisture, humidity, and temperature - useful stuff when you're trying to learn what happened to your potato plants. It comes with a mobile app, which you can [download from this link](https://github.com/team-watchdog/apocalypse-sensor-kit/releases/tag/v1.0.0). 
 
 ![image](https://github.com/user-attachments/assets/72c6c55a-3db3-462f-a3ab-a04a5d2e6a49)
 
