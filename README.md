@@ -10,16 +10,11 @@ The Apocalypse Sensor Kit is a cheap, DIY suite of hardware and software that yo
 
 ![image](https://github.com/user-attachments/assets/cfc0591f-ce04-4ae8-a2c1-cbe2be183927)
 
-
-This is a companion to our records of 70 growable plants at [Lanka.wiki](https://lanka.wiki). 
+These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever (LKR 3850) over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor clusters of sensors. 
 
 ![image](https://github.com/user-attachments/assets/72c6c55a-3db3-462f-a3ab-a04a5d2e6a49)
 
-Here's what each sensor node looks like when fully assembled and deployed. If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). We've provided the designs and a complete guide in the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki) - so you can build it as is, or improve it, or even print a PCB to make it sleekers (but more expensive). 
-
-These sensors have solar cells for charging and can average up to two months without solar charging. They connect to a reciever (LKR 3850) over LoRA, a long-range wireless communications method that gives them a maximum range of kilometers (which means you can stick them on far-off bits of a farm). The reciever communicates to a mobile app (Android) that visualizes the data for you and allows you to name and monitor clusters of sensors. 
-
-![image](https://github.com/user-attachments/assets/a16c595d-e630-4058-9226-6fc1f5d599c2)
+Here's what each sensor node looks like when fully assembled and deployed. If it's a little ugly, that's by design. We wanted to build something that could be cobbled together with a trip to the average Sri Lankan electronics shop, with a quick stop at a local hardware store. These units (PVC pipes, systems inside) are cheap to replace, robust to water and UV damage, and can be cobbled together for LKR 8200 (as of 2024). We've provided the designs and a complete guide in the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki) - so you can build it as is, or improve it, or even print a PCB to make it sleeker (but more expensive). This is a companion to our records of 70 growable plants at [Lanka.wiki](https://lanka.wiki). 
 
 What you're reading now is the basic operations and maintenance manual. If you want to learn how to build these units from scratch, please refer to the [full documentation](https://github.com/team-watchdog/apocalypse-sensor-kit/wiki). This manual will walk you through deployment and and maintenance of your sensor network for monitoring environmental conditions in agricultural settings. This assumes you have some technical expertise (if not, get a friend to help you!) 
 
